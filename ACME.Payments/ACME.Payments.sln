@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACME.PaymentCalculator", "ACME.PaymentCalculator\ACME.PaymentCalculator.csproj", "{66D1DFC5-88B8-4B92-B8B3-7FD0DEC3577B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACME.PaymentsApplication", "ACME.PaymentsApplication\ACME.PaymentsApplication.csproj", "{F93D2318-FD10-4681-B185-873F019539B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACME.PaymentCalculator.UnitTests", "ACME.PaymentCalculator.UnitTests\ACME.PaymentCalculator.UnitTests.csproj", "{45C93585-AB87-4DCF-ACF0-D0CB972A7282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D1DFC5-88B8-4B92-B8B3-7FD0DEC3577B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D1DFC5-88B8-4B92-B8B3-7FD0DEC3577B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D1DFC5-88B8-4B92-B8B3-7FD0DEC3577B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D1DFC5-88B8-4B92-B8B3-7FD0DEC3577B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93D2318-FD10-4681-B185-873F019539B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93D2318-FD10-4681-B185-873F019539B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93D2318-FD10-4681-B185-873F019539B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93D2318-FD10-4681-B185-873F019539B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45C93585-AB87-4DCF-ACF0-D0CB972A7282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C93585-AB87-4DCF-ACF0-D0CB972A7282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C93585-AB87-4DCF-ACF0-D0CB972A7282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C93585-AB87-4DCF-ACF0-D0CB972A7282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36DBEE10-6F47-48B0-B630-01C68C3192EC}
+	EndGlobalSection
+EndGlobal

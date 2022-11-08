@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ACME.PaymentsApplication": {
+      "commandName": "Project",
+      "commandLineArgs": "samplepayments.txt"
+    }
+  }
+}
